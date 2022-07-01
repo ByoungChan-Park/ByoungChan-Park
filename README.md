@@ -22,13 +22,14 @@ I'm currently studying as a Data analysis Repulic of korea
   
 ### 📝 Chan.P velog : https://velog.io/@chan_p 
   <br>
+  <br>
   
    ---
 </div>
 
 <div align="left">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 
 ### 🛠️ Once I've used
