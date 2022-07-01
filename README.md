@@ -1,6 +1,5 @@
 ### Welcome My Space🌌!
-### Hi there👋, I'm ByoungChan-Park.
-### I'm currently studying as a Data analysis Repulic of korea
+### Hi there👋, I'm ByoungChan-Park. <br> I'm currently studying as a Data analysis Repulic of korea 🇰🇷
 
 - ### 🌱 Interesting on Data Analysis
 - ### 🐳 My MBTI is ENTP (100%)
