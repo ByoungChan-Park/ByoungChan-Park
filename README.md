@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   
   ### 🐣 Chan.P 🐥 
