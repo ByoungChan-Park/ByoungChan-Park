@@ -14,11 +14,34 @@
   <br>
   
    ---
+</div>
+
+<div align="left">
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
+  <br>
 
- ### 🛠️ Once I've used
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Once I've used
   
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003b57?style=plastic&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=MongoDB&logoColor=white"/> 
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask-4A154B?style=plastic&logo=Flask&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=white"/>
+  
+</div>
+<!-- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit-learn-f7931e?style=plastic&logo=scikit-learn&logoColor=black"/> 
+<img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Keras-d00000?style=plastic&logo=Keras&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-a8b9cc?style=plastic&logo=C&logoColor=black"/>
   <br>
  
 </div>
