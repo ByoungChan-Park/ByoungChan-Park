@@ -1,24 +1,27 @@
 ### Hi there 👋
 
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  
 ### 🐣 Chan.P 🐥 
   
-  ---
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByoungChan-Park&count_bg=%230B0B0B&title_bg=%230D0D0D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> <a href="https://solved.ac/digndigh1221"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=digndigh1221"/></a>
   
-  <a href="https://github.com/ByoungChan-Park"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByoungChan-Park&count_bg=%23E98193&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)"/></a> <a href="https://solved.ac/digndigh1221"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=digndigh1221"/></a>
+   ---
+### 📝 Chan.P velog : https://velog.io/@chan_p 
+  <br>
   
-  
-  <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+   ---
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
 
+ ### 🛠️ Once I've used
   
-  
-  <a href="https://velog.io/@chan_p"><img src="https://img.shields.io/badge/chan_p.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-
   <br>
  
 </div>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
