@@ -22,14 +22,13 @@
   
   <br>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Once I've used
+### 🛠️ Once I've used
   
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
   <img src="https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003b57?style=plastic&logo=SQLite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=MongoDB&logoColor=white"/> 
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flask-4A154B?style=plastic&logo=Flask&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=white"/>
