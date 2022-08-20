@@ -1,13 +1,15 @@
-### Welcome My Space🌌!
+### Welcome My Space🌌! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByoungChan-Park&count_bg=%230B0B0B&title_bg=%230D0D0D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/>
 ### Hi there👋, I'm ByoungChan-Park. <br> I'm currently studying as a Data analysis Repulic of korea 🇰🇷
 
 - ### 🌱 Interesting on Data Analysis
 - ### 🐳 My MBTI is ENTP (100%)
 
+
 ---
 <!-- - 🤙 This is my [Blog](https://blog.naver.com/jogilsang) 
 - 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues)  -->
 <div align="center">
+  
   
   <img src="https://github-readme-stats.vercel.app/api?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungChan-Park&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
