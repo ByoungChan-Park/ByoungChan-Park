@@ -1,4 +1,6 @@
-### Welcome My Space🌌! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByoungChan-Park&count_bg=%230B0B0B&title_bg=%230D0D0D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByoungChan-Park&count_bg=%230B0B0B&title_bg=%230D0D0D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/>
+
+### Welcome My Space🌌!
 ### Hi there👋, I'm ByoungChan-Park. <br> I'm currently studying as a Data analysis Repulic of korea 🇰🇷
 
 - ### 🌱 Interesting on Data Analysis
